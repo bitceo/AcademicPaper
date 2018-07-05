@@ -1,2 +1,2 @@
 # AcademicPaper
-This is accepted academic paper in the Vietnam National Conferrence
+This is accepted Academic Paper in the Vietnam National Conference
